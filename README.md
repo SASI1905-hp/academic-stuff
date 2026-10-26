@@ -100,7 +100,7 @@ These programs are shared for learning and reference. Read them, run them and tr
 
 ## 👤 Author
 
-**Konda Sasi Meghana** (24B11AI194), Department of Artificial Intelligence and Machine Learning, Aditya University.
+**Konda Sasi Meghana**, Department of Artificial Intelligence and Machine Learning, Aditya University.
 
 GitHub: [@SASI1905-hp](https://github.com/SASI1905-hp)
 
